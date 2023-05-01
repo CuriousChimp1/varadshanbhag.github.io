@@ -1,0 +1,6 @@
+const randomChange = [
+
+   "I respect and admire people who think deeply, learn new things, and can manage their feelings.", "I enjoy talking to people who are passionate about what they believe in.", "If someone makes you happy, it's a great feeling to make them happy in return.", "The best way to connect with someone is to truly understand them and what they care about.", "Rather than trying to escape from your life, focus on building the life you want to live.", "It's better to try something and potentially fail than to regret not taking action.", "Life is meant to be enjoyed, and being kind, silly, and true to yourself can make it more fun.", "Although it's not ideal, sometimes people find indifference attractive.", "Figuring out who you are and what you want is an ongoing process that can be difficult but rewarding.", "While it may feel exciting, it's important to be honest and not pretend to be something you're not.", "Sometimes, simplicity is the best approach and striving for perfection can hold you back."
+];
+
+export default randomChange;
